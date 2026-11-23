@@ -1,0 +1,110 @@
+export const CATEGORIES = [
+  {
+    id: "notebooks-registers",
+    slug: "notebooks-registers",
+    name: "Notebooks & Registers",
+    shortName: "Notebooks",
+    tagline: "Hardbound Registers, Long Notebooks & Lab Records",
+    description: "Premium smooth 64-80 GSM paper with durable binding for school students, colleges, and corporate ledger keeping.",
+    image: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80",
+    itemCount: "450+ SKUs",
+    moqHighlight: "From 1 Pack (10 pcs)",
+    featured: true
+  },
+  {
+    id: "pens-pencils-writing",
+    slug: "pens-pencils-writing",
+    name: "Pens, Pencils & Writing",
+    shortName: "Writing",
+    tagline: "Ball Pens, Gel Pens, Markers & Mechanical Pencils",
+    description: "Wholesale boxes of blue/black/red ball pens, gel pens, whiteboard markers, highlighters, and drawing pencils.",
+    image: "https://images.unsplash.com/photo-1585336261026-7756f7ef57d6?auto=format&fit=crop&w=800&q=80",
+    itemCount: "380+ SKUs",
+    moqHighlight: "From 1 Box (20-50 pcs)",
+    featured: true
+  },
+  {
+    id: "office-supplies",
+    slug: "office-supplies",
+    name: "Office Supplies",
+    shortName: "Office Supplies",
+    tagline: "Staplers, Punch Machines, Sticky Notes & Clips",
+    description: "Heavy-duty desk equipment, Kangaro staplers, binder clips, sticky memo pads, correction tapes, and calculators.",
+    image: "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?auto=format&fit=crop&w=800&q=80",
+    itemCount: "520+ SKUs",
+    moqHighlight: "From 5 Units / Packs",
+    featured: true
+  },
+  {
+    id: "paper-printing",
+    slug: "paper-printing",
+    name: "Paper & Printing",
+    shortName: "Copier Paper",
+    tagline: "A4, A3, Legal 70/75/80 GSM Copier Paper & Glossy Sheets",
+    description: "Direct mill pricing on JK Copier, B2B Paper, Century, Trident, and photo glossy papers for high-speed laser and inkjet printing.",
+    image: "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?auto=format&fit=crop&w=800&q=80",
+    itemCount: "120+ SKUs",
+    moqHighlight: "From 1 Carton (5-10 Reams)",
+    featured: true
+  },
+  {
+    id: "art-craft",
+    slug: "art-craft",
+    name: "Art & Craft Supplies",
+    shortName: "Art & Craft",
+    tagline: "Acrylic Paints, Poster Colors, Sketchbooks & Brushes",
+    description: "Bulk packs of Camlin, Doms, and Faber-Castell art materials for school art labs, hobby classes, and creative studios.",
+    image: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=800&q=80",
+    itemCount: "340+ SKUs",
+    moqHighlight: "From 5 Sets",
+    featured: true
+  },
+  {
+    id: "school-stationery",
+    slug: "school-stationery",
+    name: "School Stationery",
+    shortName: "School Supplies",
+    tagline: "Geometry Boxes, Erasers, Sharpeners & Student Kits",
+    description: "Wholesale school essentials, student compass sets, dust-free erasers, oil pastels, rulers, and pre-packed student kits.",
+    image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=800&q=80",
+    itemCount: "290+ SKUs",
+    moqHighlight: "From 1 Master Box",
+    featured: true
+  },
+  {
+    id: "files-folders-organizers",
+    slug: "files-folders-organizers",
+    name: "Files, Folders & Organizers",
+    shortName: "Files & Folders",
+    tagline: "Box Files, Ring Binders, Display Files & L-Folders",
+    description: "Durable PVC and polypropylene archival filing systems, Solo lever arch files, button folders, and clear document envelopes.",
+    image: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=800&q=80",
+    itemCount: "210+ SKUs",
+    moqHighlight: "From 10 Units",
+    featured: true
+  },
+  {
+    id: "office-desk-essentials",
+    slug: "office-desk-essentials",
+    name: "Office & Desk Essentials",
+    shortName: "Desk Essentials",
+    tagline: "Desk Organizers, Pen Stands, Tape Dispensers & Cutters",
+    description: "Executive desktop accessories, mesh pen holders, self-healing cutting mats, heavy-duty tape dispensers, and footrests.",
+    image: "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=800&q=80",
+    itemCount: "160+ SKUs",
+    moqHighlight: "From 6 Units",
+    featured: true
+  },
+  {
+    id: "exam-educational-supplies",
+    slug: "exam-educational-supplies",
+    name: "Exam & Educational Supplies",
+    shortName: "Exam Supplies",
+    tagline: "OMR Sheets, Transparent Exam Boards & Answer Books",
+    description: "Examination board supplies, tamper-proof answer sheet envelopes, acrylic clipboards, roll-number stickers, and teacher registers.",
+    image: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=800&q=80",
+    itemCount: "95+ SKUs",
+    moqHighlight: "From 50 Units / Sets",
+    featured: true
+  }
+];
