@@ -3,8 +3,8 @@ export const COMPANY = {
   shortName: "Shreyal Stationery",
   tagline: "Everything Your Workspace & Classroom Needs",
   subTagline: "Pan-India direct wholesale distributor for schools, colleges, corporate offices, coaching institutes, and retail stationery shops.",
-  phone: "+91 98765 43210",
-  rawPhone: "919876543210", // WhatsApp international format without +
+  phone: "+91 87557 08462",
+  rawPhone: "918755708462", // WhatsApp international format without +
   email: "orders@shreyalstationery.com",
   supportEmail: "support@shreyalstationery.com",
   gstin: "07AAACS4892K1Z8",
@@ -13,7 +13,7 @@ export const COMPANY = {
     {
       title: "North India Wholesale Central Warehouse",
       address: "Plot 42-B, Naraina Industrial Area Phase-1, New Delhi - 110028",
-      phone: "+91 98765 43210"
+      phone: "+91 87557 08462"
     },
     {
       title: "West India Logistics Hub",

@@ -177,7 +177,7 @@ export default function BulkEnquiryPage() {
                         name="phone"
                         value={formData.phone}
                         onChange={handleInputChange}
-                        placeholder="e.g. 9876543210"
+                        placeholder="e.g. 8755708462"
                         className={`w-full text-xs p-2.5 bg-slate-50 border rounded-lg focus:bg-white focus:outline-none focus:ring-1 ${
                           errors.phone ? 'border-red-500 ring-red-500' : 'border-slate-300 focus:ring-slate-900'
                         }`}
