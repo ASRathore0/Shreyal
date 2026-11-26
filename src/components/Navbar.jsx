@@ -244,16 +244,16 @@ export default function Navbar() {
           <div className="flex items-center space-x-2 sm:space-x-3">
             
             {/* Bulk Quote CTA (Desktop) */}
-            <Link
+            {/* <Link
               to="/bulk-enquiry"
               className="hidden lg:flex items-center space-x-1.5 bg-amber-500 hover:bg-amber-600 text-slate-950 font-semibold text-xs px-3.5 py-2.5 rounded-lg shadow-sm transition-colors"
             >
               <FileText className="w-3.5 h-3.5" />
               <span>Get Bulk Quote</span>
-            </Link>
+            </Link> */}
 
             {/* Direct WhatsApp Action */}
-            <a
+            {/* <a
               href={createWhatsAppUrl("Hello Shreyal Stationery Solution, I need a bulk quote for our organization.")}
               target="_blank"
               rel="noopener noreferrer"
@@ -262,7 +262,7 @@ export default function Navbar() {
             >
               <span className="text-base leading-none">💬</span>
               <span>WhatsApp</span>
-            </a>
+            </a> */}
 
             {/* Bulk Cart Button (Hidden on mobile header per design, visible on tablet & desktop) */}
             <Link

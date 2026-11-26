@@ -163,7 +163,7 @@ export default function HomePage() {
                 </Link>
 
                 {/* Desktop-only WhatsApp Quick Inquiry button */}
-                <a
+                {/* <a
                   href={createWhatsAppUrl("Hello Shreyal Stationery Solution, I would like to request your latest wholesale catalog & price list.")}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -171,7 +171,7 @@ export default function HomePage() {
                 >
                   <span className="text-sm">💬</span>
                   <span>WhatsApp Desk</span>
-                </a>
+                </a> */}
               </div>
 
               {/* Compact Trust Stats Row */}
